@@ -106,8 +106,8 @@
           </svg>
 
           <div class="text-gray-700">
-            <p class="font-semibold text-3xl">1,653</p>
-            <p>Interaciones con encuestas</p>
+            <p class="font-semibold text-3xl">130</p>
+            <p>Interaciones</p>
           </div>
         </div>
       </div>
